@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thePaulCode
-- 👀 I’m interested in Front-end & Back-end Development
-- 🌱 I’m currently learning React, JavaScript, Java & Git
+- 👀 I’m interested in Back-end Development
+- 🌱 I’m currently learning Java & Git & Github
 - 💞️ I’m looking to collaborate on Basics non-profits Projects. I'm glad to help and learn!
 - 📫 How to reach me twitter/thePaulCode 
 
