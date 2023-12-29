@@ -14,9 +14,9 @@ Entusiasta do desenvolvimento Back-end com um toque musical! Durante as pausas e
 
 ##  Tecnologias
 Principais interesses
-- Desenvolvimento Front-end  usando **React, HTML, CSS, Javascript and Typescript**
-- Desenvolvimento Back-end usando **Java, Spring Framework and Node.js**
-- Bando de dados Relacional usando **MySQL and SQL Server**
+- Desenvolvimento Front-end  usando **React, HTML, CSS, Javascript e Typescript**
+- Desenvolvimento Back-end usando **Java, Spring Framework e Node.js**
+- Bando de dados Relacional usando **MySQL e SQL Server**
 - Bando de dados NoSQL usando **MongoDB**
 - Controle de versionamento usando **GIT**
 - Metodologias Ágeis **Scrum**
