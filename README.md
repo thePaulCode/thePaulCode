@@ -10,11 +10,11 @@ Eng.º Eletricista e Desenvolvedor Back-end
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thePaulCode)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Sobre mim
-Entusiasta do desenvolvimento Back-end com um toque musical! Durante as pausas entre códigos, mergulho no universo do Violino. Apaixonado por tecnologia e em uma jornada constante de aprendizado, meu foco está em me tornar um profissional certificado, sempre buscando desafios que impulsionem meu crescimento.
+Pós-graduando em Tecnologia Java e entusiasta do desenvolvimento Back-end com um toque musical! Durante as pausas entre códigos, mergulho no universo do Violino. Apaixonado por tecnologia e em uma jornada constante de aprendizado, meu foco está em me tornar um profissional certificado, sempre buscando desafios que impulsionem meu crescimento.
 
 ##  Tecnologias
 Principais interesses
-- Desenvolvimento Front-end  usando **React, HTML, CSS, Javascript e Typescript**
+- Desenvolvimento Front-end  usando **Angular, HTML, CSS, Javascript e Typescript**
 - Desenvolvimento Back-end usando **Java, Spring Framework e Node.js**
 - Bando de dados Relacional usando **MySQL e SQL Server**
 - Bando de dados NoSQL usando **MongoDB**
