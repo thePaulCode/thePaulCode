@@ -36,20 +36,3 @@ Principais interesses
 thePaulCode/thePaulCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-usecaseDiagram
-    actor Clientes
-    actor "Usuario do Software"
-    actor Fornecedores
-
-    usecase UC1 "Armazenar informações de Clientes"
-    usecase UC2 "Armazenar informações de Cidades"
-    usecase UC3 "Armazenar informações de Bancos"
-    usecase UC4 "Armazenar informações de Fornecedores"
-
-    Clientes -- UC1
-    "Usuário do Software" -- UC2
-    "Usuário do Software" -- UC3
-    Fornecedores -- UC4
-
